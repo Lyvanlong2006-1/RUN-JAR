@@ -23,3 +23,12 @@ java -jar microemulator.jar
 + Not close the terminal or the aplication close too
 + Because install jdk java, you can run .jar with duble click, the method via teerminal is for OS not run java, for exemple versions of Ubunto etc.
 
+# FOR RUN OFF TERMINAL
+
+```
+sudo apt install default-jdk -y
+sudo apt install git
+cd
+git clone https://github.com/System-Calls/RUN-JAR.git
+```
++ Now, open the file explorer, open the folder RUN-JAR, click in microemulator.jar and in propriets turn on the option for turn the archive executable with 2 clicks.
