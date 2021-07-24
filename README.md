@@ -13,7 +13,7 @@ cd
 + Download the repo using the git clone:
 
 ```
-git clone https://github.com/System-Calls/RUN-JAR.git
+git clone https://github.com/System-Axiom/RUN-JAR.git
 ``` 
 + And run 
 ```
@@ -26,9 +26,6 @@ java -jar microemulator.jar
 # FOR RUN OFF TERMINAL
 
 ```
-sudo apt install default-jdk -y
-sudo apt install git
-cd
-git clone https://github.com/System-Calls/RUN-JAR.git
+sudo apt install default-jdk -y && sudo apt install git && cd && git clone https://github.com/System-Axiom/RUN-JAR.git
 ```
 + Now, open the file explorer, open the folder RUN-JAR, click in microemulator.jar and in propriets turn on the option for turn the archive executable with 2 clicks.
